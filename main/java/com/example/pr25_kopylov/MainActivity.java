@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
         ImageButton dogImageButton = (ImageButton) findViewById(R.id.imageButtonDog);
         dogImageButton.setOnClickListener(onClickListener);
-
+//
 
         cowImageButton.setOnTouchListener(new View.OnTouchListener() {
 
